@@ -1,0 +1,13 @@
+{
+  "categories": {
+    "Trending": [
+      {"name": "Sunset Vibes", "colors": ["#FF6B6B", "#FFE66D", "#4ECDC4", "#556270"]},
+      ... 9 more palettes ...
+    ],
+    "Pastel": [
+      {"name": "Cotton Candy", "colors": ["#FFB7B2", "#FFDAC1", "#E2F0CB", "#B5EAD7"]},
+      ... 9 more palettes ...
+    ],
+    ... 18 more categories ...
+  }
+}
