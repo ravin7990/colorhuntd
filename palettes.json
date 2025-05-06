@@ -1,13 +1,33 @@
-{
-  "categories": {
-    "Trending": [
-      {"name": "Sunset Vibes", "colors": ["#FF6B6B", "#FFE66D", "#4ECDC4", "#556270"]},
-      ... 9 more palettes ...
-    ],
-    "Pastel": [
-      {"name": "Cotton Candy", "colors": ["#FFB7B2", "#FFDAC1", "#E2F0CB", "#B5EAD7"]},
-      ... 9 more palettes ...
-    ],
-    ... 18 more categories ...
-  }
-}
+[
+    {
+        "id": 1,
+        "category": "pastel",
+        "colors": ["#F4C2C2", "#FFD1DC", "#FFB6C1", "#FFC1CC", "#FFE4E1"]
+    },
+    {
+        "id": 2,
+        "category": "dark",
+        "colors": ["#2F4F4F", "#36454F", "#483D8B", "#2C3539", "#232B2B"]
+    },
+    {
+        "id": 3,
+        "category": "neon",
+        "colors": ["#FF00FF", "#00FFFF", "#FFFF00", "#FF1493", "#00FF00"]
+    },
+    {
+        "id": 4,
+        "category": "warm",
+        "colors": ["#FF4500", "#FFA500", "#FF6347", "#FFD700", "#FF8C00"]
+    },
+    {
+        "id": 5,
+        "category": "cool",
+        "colors": ["#4682B4", "#5F9EA0", "#6495ED", "#00CED1", "#4169E1"]
+    },
+    {
+        "id": 6,
+        "category": "earthy",
+        "colors": ["#8B4513", "#A0522D", "#D2691E", "#CD853F", "#F4A460"]
+    },
+    // Add more palettes as needed
+]
